@@ -4,7 +4,7 @@ var request = require('request');
 const mysql = require("mysql2");
 
 START_SCRIPTS();
-
+//
 //--------------------------------< DB >------------------------------//
 //------------------------------< MOMENTS >--------------------------//
 const connection = mysql.createConnection({
